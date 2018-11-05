@@ -1,4 +1,4 @@
-site_name: 'DCAN LAB MPLUS PROCESSING'
+site_name: 'MPLUS'
 theme: readthedocs
 pages:
 - 'RUN MASTERGUI': 'run_mastergui_markdown.md'
