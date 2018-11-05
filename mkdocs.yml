@@ -1,0 +1,5 @@
+site_name: 'DCAN LAB MPLUS PROCESSING'
+theme: readthedocs
+pages:
+- 'RUN MASTERGUI': 'run_mastergui_markdown.md'
+
